@@ -227,6 +227,12 @@ footer {
   .skills-list li {
     font-size: 15px;
   }
+  .image-link {
+    height: 290px;
+    width: 480px;
+
+  }
+
 }
 
 @media (min-width: 768px) {
@@ -234,5 +240,9 @@ footer {
 		padding: 0% 25%;
     }
     
-    
+    .image-link {
+      height: 280px;
+      width: 350px;
+  
+    } 
 }
