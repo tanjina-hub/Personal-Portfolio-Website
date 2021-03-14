@@ -194,6 +194,12 @@ input {
   
 }
 
+@media (max-width: 768px){
+  #submit-button {
+    width: 20%;
+    height: 40px;
+  }
+}
 
 /***** FOOTER *****/
 
